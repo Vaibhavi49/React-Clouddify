@@ -113,13 +113,7 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ---
 
-## 📄 License
-
-MIT License. Use it freely, modify it, and make it your own.
-
----
-
-## ✨ Demo & Screenshots
+## ✨Screenshot
 ![Screenshot from 2025-05-02 12-57-49](https://github.com/user-attachments/assets/aecb454e-a189-46c7-b9bb-952a9471d288)
 
 
