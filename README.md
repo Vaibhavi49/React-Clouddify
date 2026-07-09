@@ -110,7 +110,11 @@ Push to the branch (git push origin -u feature/fooBar).
 Create a new Pull Request.
 
 For major changes, please open an issue first to discuss what you would like to change.
+---
 
+## 📄 License
+
+MIT License. Use it freely, modify it, and make it your own.
 ---
 
 ## ✨Screenshot
